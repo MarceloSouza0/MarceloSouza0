@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Marcelo%20Souza&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-• Estudante de Ciência da Computação 
-• Apaixonado por desenvolvimento de software 
-• Desenvolvedor em formação na Instituição Senac 
+• Estudante de Ciência da Computação<br>
+• Apaixonado por desenvolvimento de software<br>
+• Desenvolvedor em formação na Instituição Senac<br>
 • São Paulo, SP
 
 ---
@@ -41,14 +41,29 @@
 <div style="width:100%; height:2px; background: linear-gradient(90deg, #6a11cb, #2575fc); margin: 20px 0; animation: gradientMove 3s linear infinite;"></div>
 
 ### Habilidades
-<p>
-Python       ▰▰▰▰▰▰▰▱▱▱ 75%<br>
-C            ▰▰▰▰▰▰▰▰▰▱ 85%<br>
-HTML/CSS     ▰▰▰▰▰▰▰▰▰▱ 90%<br>
-JavaScript   ▰▰▰▰▱▱▱▱▱▱ 25%<br>
-Bootstrap    ▰▰▰▰▰▰▱▱▱▱ 60%
-</p>
-
+### Habilidades (barra)
+<table>
+  <tr>
+    <td>Python</td>
+    <td>▰▰▰▰▰▰▰▱▱▱ 75%</td>
+  </tr>
+  <tr>
+    <td>C</td>
+    <td>▰▰▰▰▰▰▰▰▰▱ 85%</td>
+  </tr>
+  <tr>
+    <td>HTML/CSS</td>
+    <td>▰▰▰▰▰▰▰▰▰▱ 90%</td>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td>▰▰▰▰▱▱▱▱▱▱ 25%</td>
+  </tr>
+  <tr>
+    <td>Bootstrap</td>
+    <td>▰▰▰▰▰▰▱▱▱▱ 60%</td>
+  </tr>
+</table>
 ---
 
 ### Estatísticas do GitHub
