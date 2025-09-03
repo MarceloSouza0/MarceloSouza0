@@ -65,7 +65,7 @@
   </tr>
 </table>
 
-![divider](https://i.imgur.com/animacaoExemplo.gif)
+---
 
 ### Estatísticas do GitHub
 
