@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Marcelo%20Souza&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 </p>
-
 Estudante de Ciência da Computação  
 Apaixonado por desenvolvimento de software  
 Desenvolvedor em formação na Instituição Senac
