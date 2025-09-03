@@ -1,4 +1,3 @@
-# Olá, Mundo! Me chamo Marcelo Souza!
 <!-- Banner de abertura -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Marcelo%20Souza&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
