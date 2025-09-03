@@ -53,9 +53,9 @@
 
 ## Projetos em destaque
 <p align="center">
-  <a href="#">Calculadora Binária em C (Logisim)</a> – (Não Publicado) Projeto acadêmico de circuitos digitais. <br>
+  <a href="#">Calculadora Binária (Logisim)</a> – (Não Publicado) Projeto acadêmico de circuitos digitais. <br>
   <a href="https://marcelosouza0.github.io/Projeto-PI/">Site Dinâmico em HTML/CSS/JS</a> – Projeto desenvolvido para um trabalho acadêmico. <br>
-  <a href="link_do_repo">Scripts em Python</a> – Automação e exercícios práticos.  
+  <a href="https://marcelosouza0.github.io/projeto-android/">Site Simples em HTML/CSS/a> – Site Desenvolvido para estudos com o curso em Video.  
 </p>
 
 ---
