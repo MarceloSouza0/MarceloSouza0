@@ -3,16 +3,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Marcelo%20Souza&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-• Estudante de Ciência da Computação<br>
-• Apaixonado por desenvolvimento de software<br>
-• Desenvolvedor em formação na Instituição Senac<br>
-• São Paulo, SP
+## Sobre mim
+Estudante de **Ciência da Computação** no Senac Santo Amaro (SP).  
+Interesse em **desenvolvimento de software**, com foco em **programação, algoritmos e projetos práticos**.  
+Atualmente aprendendo **Allegro** e **MySQL**.  
+São Paulo, SP  
 
 ---
 
-<div style="width:100%; height:2px; background: linear-gradient(90deg, #6a11cb, #2575fc); margin: 20px 0; animation: gradientMove 3s linear infinite;"></div>
+<div style="width:100%; height:2px; background: linear-gradient(90deg, #6a11cb, #2575fc); margin: 20px 0;"></div>
 
-### Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 #### Linguagens & Frameworks
 <p>
@@ -38,37 +39,25 @@
 
 ---
 
-<div style="width:100%; height:2px; background: linear-gradient(90deg, #6a11cb, #2575fc); margin: 20px 0; animation: gradientMove 3s linear infinite;"></div>
+<div style="width:100%; height:2px; background: linear-gradient(90deg, #6a11cb, #2575fc); margin: 20px 0;"></div>
 
-
-### Habilidades
-<table>
-  <tr>
-    <td>Python</td>
-    <td>▰▰▰▰▰▰▰▱▱▱ 75%</td>
-  </tr>
-  <tr>
-    <td>C</td>
-    <td>▰▰▰▰▰▰▰▰▰▱ 85%</td>
-  </tr>
-  <tr>
-    <td>HTML/CSS</td>
-    <td>▰▰▰▰▰▰▰▰▰▱ 90%</td>
-  </tr>
-  <tr>
-    <td>JavaScript</td>
-    <td>▰▰▰▰▱▱▱▱▱▱ 25%</td>
-  </tr>
-  <tr>
-    <td>Bootstrap</td>
-    <td>▰▰▰▰▰▰▱▱▱▱ 60%</td>
-  </tr>
-</table>
+## Habilidades
+![Python](https://img.shields.io/badge/Python-75%25-blue)
+![C](https://img.shields.io/badge/C-85%25-blue)
+![HTML%2FCSS](https://img.shields.io/badge/HTML%2FCSS-90%25-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-25%25-yellow)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-60%25-purple)
 
 ---
 
-### Estatísticas do GitHub
+## Projetos em destaque
+- [Calculadora Binária em C (Logisim)](link_do_repo) – Projeto acadêmico de circuitos digitais.  
+- [Site Dinâmico em HTML/CSS/JS](link_do_repo) – Layout responsivo inspirado em games.  
+- [Scripts em Python](link_do_repo) – Automação e exercícios práticos.  
 
+---
+
+## Estatísticas do GitHub
 <table>
   <tr>
     <td>
@@ -84,17 +73,21 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarceloSouza0&theme=tokyonight" width="820"/>
 </p>
 
-### Versionamento
+---
+
+## Versionamento
 - Git • GitHub
 
 ---
 
-### Contato
+## Contato
 <p>
   <a href="https://www.linkedin.com/in/marcelo-souza-3a221a258/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:marceloprofissional2024@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/_marcelimmsouza/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
+
+Aberto a **colaborações, freelas e networking**. Entre em contato!  
 
 <!-- Banner de fechamento -->
 <p>
