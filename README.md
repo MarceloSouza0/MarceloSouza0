@@ -55,7 +55,7 @@
 <p align="center">
   <a href="#">Calculadora Binária (Logisim)</a> – (Não Publicado) Projeto acadêmico de circuitos digitais. <br>
   <a href="https://marcelosouza0.github.io/Projeto-PI/">Site Dinâmico em HTML/CSS/JS</a> – Projeto desenvolvido para um trabalho acadêmico. <br>
-  <a href="https://marcelosouza0.github.io/projeto-android/">Site Simples em HTML/CSS/a> – Site Desenvolvido para estudos com o curso em Video.  
+  <a href="https://marcelosouza0.github.io/projeto-android/">Site Simples em HTML/CSS</a> – Site Desenvolvido para estudos com o curso em Video.  
 </p>
 
 ---
