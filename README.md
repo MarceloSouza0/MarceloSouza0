@@ -64,9 +64,8 @@
     <td>▰▰▰▰▰▰▱▱▱▱ 60%</td>
   </tr>
 </table>
----
 
-### Estatísticas do GitHub
+![divider](https://i.imgur.com/animacaoExemplo.gif)
 
 ### Estatísticas do GitHub
 
