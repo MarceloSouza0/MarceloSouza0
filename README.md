@@ -67,15 +67,15 @@
 ---
 
 ### Estatísticas do GitHub
-<p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MarceloSouza0&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloSouza0&layout=compact&theme=tokyonight" />
-</p>
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarceloSouza0&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloSouza0&layout=compact&theme=tokyonight" width="48%" />
+</div>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarceloSouza0&theme=tokyonight" />
 </p>
-
----
 
 ### Versionamento
 - Git • GitHub
