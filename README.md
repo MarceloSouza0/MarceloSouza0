@@ -75,14 +75,3 @@ Bootstrap ▰▰▰▰▰▰▱▱▱▱ 60%
 <p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=100&section=footer"/>
 </p>
-
-<!-- Efeito CSS -->
-<style>
-@keyframes gradientMove {
-  0% {background-position: 0%;}
-  100% {background-position: 100%;}
-}
-div {
-  background-size: 200% 100%;
-}
-</style>
