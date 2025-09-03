@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Marcelo Souza!
+# Olá, me chamo Marcelo Souza!
 
 🎓 Estudante de **Ciência da Computação**  
 💻 Curioso por **todas as áreas da programação** — do front ao back, passando por jogos  
