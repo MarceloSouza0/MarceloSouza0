@@ -68,13 +68,21 @@
 
 ### Estatísticas do GitHub
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarceloSouza0&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloSouza0&layout=compact&theme=tokyonight" width="48%" />
-</div>
+### Estatísticas do GitHub
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=MarceloSouza0&show_icons=true&theme=tokyonight" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloSouza0&layout=compact&theme=tokyonight" width="400"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarceloSouza0&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarceloSouza0&theme=tokyonight" width="820"/>
 </p>
 
 ### Versionamento
