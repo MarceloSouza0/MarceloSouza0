@@ -1,13 +1,13 @@
-# Olá, me chamo Marcelo Souza!
+# Olá, Mundo! Me chamo Marcelo Souza!
 
 🎓 Estudante de **Ciência da Computação**  
-💻 Curioso por **todas as áreas da programação** — do front ao back, passando por jogos  
-🎮 Atualmente explorando **Allegro** para criar meu primeiro jogo online no projeto de PI  
+💻 Curioso por **todas as áreas da programação** — do front ao back, IA, e tudo o que a tecnologia tem a oferecer 
+🎮 Atualmente explorando **Allegro** para criar meu primeiro jogo online em meu projeto de PI  
 🏐 Fã de **vôlei**, apaixonado por **jogos online** e **ficção científica**
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 🕹️ Tecnologias & Ferramentas
 
 ### Linguagens & Frameworks
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
