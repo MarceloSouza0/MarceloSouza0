@@ -40,8 +40,8 @@
 
 <div style="width:100%; height:2px; background: linear-gradient(90deg, #6a11cb, #2575fc); margin: 20px 0; animation: gradientMove 3s linear infinite;"></div>
 
+
 ### Habilidades
-### Habilidades (barra)
 <table>
   <tr>
     <td>Python</td>
