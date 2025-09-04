@@ -15,7 +15,7 @@
 
 <div align="center" style="width:100%; height:2px; background: linear-gradient(90deg, #6a11cb, #2575fc); margin: 20px 0;"></div>
 
-# Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 <p align="center">
   <!-- Linguagens -->
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
@@ -28,21 +28,21 @@
 
 ---
 
-## Estudando atualmente
+### Estudando atualmente
 <p align="center">
   <a href="https://liballeg.org/" target="_blank"><img src="https://img.shields.io/badge/Allegro-000000?style=for-the-badge"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 </p>
 
 
-## Pretendo aprender em breve
+### Pretendo aprender em breve
 <p align="center">
   <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
 </p>
 
 
-# Habilidades
+## Habilidades
 <p align="center">
   <img src="https://img.shields.io/badge/Python-75%25-blue"/>
   <img src="https://img.shields.io/badge/C-85%25-blue"/>
@@ -53,7 +53,7 @@
 
 ---
 
-# Projetos em destaque
+## Projetos em destaque
 <p align="center">
   <a href="#">Calculadora Binária (Logisim)</a> – (Não Publicado) Projeto acadêmico de circuitos digitais. <br>
   <a href="https://marcelosouza0.github.io/Projeto-PI/">Site Dinâmico em HTML/CSS/JS</a> – Projeto desenvolvido para um trabalho acadêmico. <br>
@@ -62,7 +62,7 @@
 
 ---
 
-# Estatísticas do GitHub
+## Estatísticas do GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarceloSouza0&show_icons=true&theme=tokyonight" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloSouza0&layout=compact&theme=tokyonight" width="400"/>
@@ -73,7 +73,7 @@
 
 ---
 
-# Versionamento
+## Versionamento
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -85,7 +85,7 @@
 
 ---
 
-# Contato
+## Contato
 <p align="center">
   <a href="https://www.linkedin.com/in/marcelo-souza-3a221a258/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:marceloprofissional2024@gmail.com">
