@@ -34,7 +34,6 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 </p>
 
----
 
 ### Pretendo aprender em breve
 <p align="center">
@@ -42,7 +41,6 @@
   <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
 </p>
 
----
 
 ## Habilidades
 <p align="center">
