@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Marcelo%20Souza&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-## Sobre mim
+# Sobre mim
 <p align="center">
   Estudante de <b>Ciência da Computação</b> no Senac Santo Amaro (SP). <br>
   Interesse em <b>desenvolvimento de software</b>, com foco em <b>programação, algoritmos e projetos práticos</b>. <br>
@@ -15,7 +15,7 @@
 
 <div align="center" style="width:100%; height:2px; background: linear-gradient(90deg, #6a11cb, #2575fc); margin: 20px 0;"></div>
 
-## Tecnologias & Ferramentas
+# Tecnologias & Ferramentas
 <p align="center">
   <!-- Linguagens -->
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
@@ -42,7 +42,7 @@
 </p>
 
 
-## Habilidades
+# Habilidades
 <p align="center">
   <img src="https://img.shields.io/badge/Python-75%25-blue"/>
   <img src="https://img.shields.io/badge/C-85%25-blue"/>
@@ -53,7 +53,7 @@
 
 ---
 
-## Projetos em destaque
+# Projetos em destaque
 <p align="center">
   <a href="#">Calculadora Binária (Logisim)</a> – (Não Publicado) Projeto acadêmico de circuitos digitais. <br>
   <a href="https://marcelosouza0.github.io/Projeto-PI/">Site Dinâmico em HTML/CSS/JS</a> – Projeto desenvolvido para um trabalho acadêmico. <br>
@@ -62,7 +62,7 @@
 
 ---
 
-## Estatísticas do GitHub
+# Estatísticas do GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarceloSouza0&show_icons=true&theme=tokyonight" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloSouza0&layout=compact&theme=tokyonight" width="400"/>
@@ -73,7 +73,7 @@
 
 ---
 
-## Versionamento
+# Versionamento
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -85,7 +85,7 @@
 
 ---
 
-## Contato
+# Contato
 <p align="center">
   <a href="https://www.linkedin.com/in/marcelo-souza-3a221a258/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:marceloprofissional2024@gmail.com">
