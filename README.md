@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Marcelo%20Souza&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-# Sobre mim
+## Sobre mim
 <p align="center">
   Estudante de <b>Ciência da Computação</b> no Senac Santo Amaro (SP). <br>
   Interesse em <b>desenvolvimento de software</b>, com foco em <b>programação, algoritmos e projetos práticos</b>. <br>
@@ -35,12 +35,14 @@
 </p>
 
 
+
 ### Pretendo aprender em breve
 <p align="center">
   <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
 </p>
 
+---
 
 ## Habilidades
 <p align="center">
