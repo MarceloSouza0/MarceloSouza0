@@ -26,11 +26,15 @@
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
 </p>
 
+---
+
 ### Estudando atualmente
 <p align="center">
   <a href="https://liballeg.org/" target="_blank"><img src="https://img.shields.io/badge/Allegro-000000?style=for-the-badge"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 </p>
+
+---
 
 ### Pretendo aprender em breve
 <p align="center">
