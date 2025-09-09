@@ -44,7 +44,7 @@
 
 ---
 
-## Habilidad
+## Habilidades
 <p align="center">
   <img src="https://img.shields.io/badge/Python-75%25-blue"/>
   <img src="https://img.shields.io/badge/C-85%25-blue"/>
