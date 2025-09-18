@@ -32,7 +32,7 @@
 <p align="center">
   <a href="https://liballeg.org/" target="_blank"><img src="https://img.shields.io/badge/Allegro-000000?style=for-the-badge"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/Assembly-FFA500?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/Assembly-FFA500?style=for-the-badge&logo=webassembly&logoColor=white"/></a>
   https://img.shields.io/badge/-Assembly-orange?logo=webassembly&logoColor=white&style=for-the-badge
 </p>
 
