@@ -47,13 +47,14 @@
 
 ## Habilidades
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-75%25-blue"/>
-  <img src="https://img.shields.io/badge/C-85%25-blue"/>
-  <img src="https://img.shields.io/badge/HTML%2FCSS-90%25-blue"/>
-  <img src="https://img.shields.io/badge/JavaScript-25%25-yellow"/>
+  <img src="https://img.shields.io/badge/Python-75%25-3776AB"/>
+  <img src="https://img.shields.io/badge/C-85%25-00599C"/>
+  <img src="https://img.shields.io/badge/HTML%2FCSS-90%25-E34F26"/>
+  <img src="https://img.shields.io/badge/JavaScript-25%25-F7DF1E"/>
   <img src="https://img.shields.io/badge/Bootstrap-60%25-purple"/>
   <img src="https://img.shields.io/badge/Allegro-40%25-000000"/>
   <img src="https://img.shields.io/badge/Assembly-5%25-FFA500"/>
+  <img src="https://img.shields.io/badge/MySQL-20%25-4479A1"/>
 </p>
 
 ---
