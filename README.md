@@ -52,6 +52,7 @@
   <img src="https://img.shields.io/badge/HTML%2FCSS-90%25-blue"/>
   <img src="https://img.shields.io/badge/JavaScript-25%25-yellow"/>
   <img src="https://img.shields.io/badge/Bootstrap-60%25-purple"/>
+  <img src="https://img.shields.io/badge/Assembly-5%25-purple"/>
 </p>
 
 ---
