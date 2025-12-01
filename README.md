@@ -5,7 +5,7 @@
 
 ## Sobre mim
 <p align="center">
-  Estudante de <b>Ciência da Computação</b> no Senac Santo Amaro (SP). <br>
+  Estudante de <b>Análise e Desenvolvimento de Sistemas</b> no Senac Santo Amaro (SP). <br>
   Interesse em <b>desenvolvimento de software</b>, com foco em <b>programação, algoritmos e projetos práticos</b>. <br>
   Atualmente aprendendo <b>Allegro</b> e <b>MySQL</b>. <br>
   São Paulo, SP
